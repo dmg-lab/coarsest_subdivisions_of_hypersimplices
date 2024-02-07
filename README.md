@@ -4,8 +4,10 @@ This repository contains the data and code necessary to reproduce the results
 of [[1]](#1).
 
 ## Data
-### Delta(2,7)
-### Delta(3,6)
+|               | Delta(2,7) | Delta(3,6) |
+|---------------|------------|------------|
+|mptopcom input and output | [link](https://polymake.org/triangulations/hypersimplex_2_7/) | [link](https://polymake.org/triangulations/hypersimplex_3_6/)|
+|Classes of rays of the secondary fan | [link]() | [link]() |
 
 ## Code
 The triangulations are produced by mptopcom [[3]](#3) and then processed by
@@ -23,7 +25,7 @@ ray orbit.
 For large output of mptopcom it makes sense to split it into chunks and run
 _rays_of_sec_cones.pl_ separately on every chunk. This script unifies the
 intermediate results and does additional postprocessing:
-- It associates an ID to every ray representative
+- It associates an ID to every ray representative.
 - It produces a histogram of how many rays exhibit a given spread.
 
 ## References
@@ -33,8 +35,8 @@ Coarsest Subdivisions of Hypersimplices.
 [arxiv](link).
 
 <a id="2">[2]</a>
-[polymake](https://polymake.org/) -- open source software for research in
+[polymake](https://polymake.org/) - open source software for research in
 polyhedral geometry.
 
 <a id="3">[3]</a>
-[mptopcom](https://polymake.org/mptopcom)
+[mptopcom](https://polymake.org/mptopcom) - computing triangulations of point configurations in parallel.
