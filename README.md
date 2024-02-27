@@ -30,7 +30,7 @@ intermediate results and does additional postprocessing:
 
 ## References
 <a id="1">[1]</a> 
-Laura Casabelle, Michael Joswig, Lars Kastner:
+Laura Casabella, Michael Joswig, Lars Kastner:
 Coarsest Subdivisions of Hypersimplices.
 [arxiv](link).
 
