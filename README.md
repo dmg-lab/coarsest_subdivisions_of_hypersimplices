@@ -7,7 +7,7 @@ of [[1]](#1).
 |               | Delta(2,7) | Delta(3,6) |
 |---------------|------------|------------|
 |mptopcom input and output | [link](https://polymake.org/triangulations/hypersimplex_2_7/) | [link](https://polymake.org/triangulations/hypersimplex_3_6/)|
-|Classes of rays of the secondary fan | [link]() | [link]() |
+|Classes of rays of the secondary fan | [link](https://polymake.org/secondary_fans/hypersimplex_2_7/) | [link](https://polymake.org/secondary_fans/hypersimplex_3_6/)|
 
 ## Code
 The triangulations are produced by mptopcom [[3]](#3) and then processed by
