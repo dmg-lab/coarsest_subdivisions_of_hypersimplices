@@ -6,8 +6,8 @@ of [[1]](#1).
 ## Data
 |               | Delta(2,7) | Delta(3,6) |
 |---------------|------------|------------|
-|mptopcom input and output | [link](https://polymake.org/triangulations/hypersimplex_2_7/) | [link](https://polymake.org/triangulations/hypersimplex_3_6/)|
-|Classes of rays of the secondary fan | [link](https://polymake.org/secondary_fans/hypersimplex_2_7/) | [link](https://polymake.org/secondary_fans/hypersimplex_3_6/)|
+|mptopcom input and output | [link](https://zenodo.org/doi/10.5281/zenodo.12685857) | [link](https://zenodo.org/doi/10.5281/zenodo.12665510)|
+|Classes of rays of the secondary fan | [link](https://zenodo.org/doi/10.5281/zenodo.12764657) | [link](https://zenodo.org/doi/10.5281/zenodo.12765283)|
 
 ## Code
 The triangulations are produced by mptopcom [[3]](#3) and then processed by
