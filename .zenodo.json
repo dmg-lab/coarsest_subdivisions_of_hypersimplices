@@ -1,0 +1,42 @@
+{
+   "upload_type": "software",
+   "title": "Supplementary scripts for computations of coarsest subdivisisions of hypersimplices",
+   "creators": [
+      {
+         "name": "Casabella, Laura",
+         "orcid": "0009-0009-2035-1071",
+         "affiliation": "Max Planck Institute for Mathematics in the Sciences "
+      },
+      {
+         "name": "Joswig, Michael",
+         "orcid": "0000-0002-4974-9659",
+         "affiliation": "Technische Universität Berlin"
+      },
+      {
+         "name": "Kastner, Lars",
+         "orcid": "0000-0001-9224-7761",
+         "affiliation": "Technische Universität Berlin"
+      }
+   ],
+  "related_identifiers": [
+     {
+        "identifier": "https://arxiv.org/abs/arXiv:2402.17665",
+        "relation": "isSupplementTo",
+        "resource_type": "publication-preprint",
+        "scheme": "url"
+     },
+     {
+        "identifier": "10.5281/zenodo.12765283",
+        "relation": "describes",
+        "resource_type": "dataset",
+        "scheme": "doi"
+     },
+     {
+        "identifier": "10.5281/zenodo.12764657",
+        "relation": "describes",
+        "resource_type": "dataset",
+        "scheme": "doi"
+     }
+  ],
+  "license": "mit"
+}
